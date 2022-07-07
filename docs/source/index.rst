@@ -1,6 +1,12 @@
 Welcome to PyPBP's documentation!
 ===================================
 
+.. image:: ./1.png
+   :align: center
+   :width: 300
+   :height: 300
+   :alt: bepr logo.
+
 **PyPBP** is a Python library for researchers 
 interested in studying time series outbreaks. 
 It contains the required functions to implement the proposed
