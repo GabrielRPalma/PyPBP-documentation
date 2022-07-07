@@ -1,9 +1,10 @@
-Template for the Read the Docs tutorial
+PyPBP documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+.. image:: /docs/source/3.png
+   :align: center
+   :width: 300
+   :height: 300
+   :alt: bepr logo.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+The description of the python package PyPBP introduced by the paper "Pattern-Based Prediction of Population Outbreaks"
