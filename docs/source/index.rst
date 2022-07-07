@@ -1,13 +1,15 @@
-Welcome to Lumache's documentation!
+Welcome to PyPBP's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**PyPBP** is a Python library for researchers 
+interested in studying time series outbreaks. 
+It contains the required functions to implement the proposed
+Pattern Based Prediction method, which is a combination of
+Machine learning and statistical techniques focus on predicting
+outbreaks. In our paper "Pattern-Based Prediction of Population Outbreaks", 
+we presented the method in the context of insect outbreaks.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Please cite the use of our library as:
 
 .. note::
 
