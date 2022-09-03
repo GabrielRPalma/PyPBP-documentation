@@ -17,9 +17,25 @@ we presented the method in the context of insect outbreaks.
 
 Please cite the use of our library as:
 
+Bibtex citation:
+
+.. code-block:: console
+
+   @article{palma2022pbp,
+            title={Pattern-Based Prediction of Population Outbreaks},
+            author={Palma, Gabriel R and Coutinho, Renato M and Godoy, Wesley AC and C{\^o}nsoli, Fernando L and Kraenkel, Roberto A},
+            journal={arXiv preprint arXiv:4477913},
+            year={2022}}
+            
+APA citation:
+
+.. code-block:: console
+
+   Palma, G. R., Godoy, W. A., Engel, E., Lau, E., Galvan, E., Mason, O., Markham, C., Moral, A. R., (2022). Pattern-Based Prediction of Population Outbreaks. arXiv preprint arXiv:4477913.
+   
 .. note::
 
-   This project is under active development.
+   This project is under active development. So, new details will be added to this page shortly.
 
 Contents
 --------
