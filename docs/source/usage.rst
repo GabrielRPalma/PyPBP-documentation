@@ -15,19 +15,6 @@ To use pypbp, first install it using pip:
 A minimal reproducible example
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
 >>> import pypbp as pbp
 >>> results, xstar, clustered_patterns, parameters = pbp.pbp_fit(time_series = pbp.time_series, 
             train_percentage = 0.5, 
