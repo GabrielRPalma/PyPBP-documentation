@@ -43,4 +43,4 @@ Contents
 .. toctree::
 
    usage
-   api
+   examples
