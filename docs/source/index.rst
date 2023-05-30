@@ -21,11 +21,12 @@ Bibtex citation:
 
 .. code-block:: console
 
-   @article{palma2022pbp,
-            title={Pattern-Based Prediction of Population Outbreaks},
-            author={Palma, Gabriel R and Coutinho, Renato M and Godoy, Wesley AC and C{\^o}nsoli, Fernando L and Kraenkel, Roberto A},
-            journal={arXiv preprint arXiv:4477913},
-            year={2022}}
+   @article{palma2022pattern,
+  title={Pattern-Based Prediction of Population Outbreaks},
+  author={Palma, Gabriel R and Godoy, Wesley AC and Engel, Eduardo and Lau, Douglas and Galvan, Edgar and Mason, Oliver and Markham, Charles and Moral, Rafael A},
+  journal={arXiv preprint arXiv:2209.02346},
+  year={2022}
+}
             
 APA citation:
 
