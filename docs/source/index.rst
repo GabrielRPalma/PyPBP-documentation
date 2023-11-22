@@ -28,8 +28,7 @@ Bibtex citation:
   volume={77},
   pages={102220},
   year={2023},
-  publisher={Elsevier}
-}
+  publisher={Elsevier}}
             
 APA citation:
 
