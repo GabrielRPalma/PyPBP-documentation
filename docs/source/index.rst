@@ -32,7 +32,7 @@ APA citation:
 
 .. code-block:: console
 
-   Palma, G. R., Godoy, W. A., Engel, E., Lau, E., Galvan, E., Mason, O., Markham, C., Moral, A. R., (2022). Pattern-Based Prediction of Population Outbreaks. arXiv preprint arXiv:4477913.
+   Palma, G. R., Godoy, W. A., Engel, E., Lau, D., Galvan, E., Mason, O., Markham, C., and Moral, R. A. (2023). Pattern-based prediction of population outbreaks. Ecological Informatics, 77:102220.
    
 .. note::
 
