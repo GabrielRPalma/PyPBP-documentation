@@ -21,11 +21,14 @@ Bibtex citation:
 
 .. code-block:: console
 
-   @article{palma2022pattern,
-  title={Pattern-Based Prediction of Population Outbreaks},
+   @article{palma2023,
+  title={Pattern-based prediction of population outbreaks},
   author={Palma, Gabriel R and Godoy, Wesley AC and Engel, Eduardo and Lau, Douglas and Galvan, Edgar and Mason, Oliver and Markham, Charles and Moral, Rafael A},
-  journal={arXiv preprint arXiv:2209.02346},
-  year={2022}
+  journal={Ecological Informatics},
+  volume={77},
+  pages={102220},
+  year={2023},
+  publisher={Elsevier}
 }
             
 APA citation:
